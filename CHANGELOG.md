@@ -1,3 +1,7 @@
+### v0.5.4
+* Fix PhantomJS launcher
+* Fix html2js preprocessing
+
 ### v0.5.3
 * Add code coverage !
 
